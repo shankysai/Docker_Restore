@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: sezai.can
+Build-Jdk: 11.0.4
+Extension-Name: validating-email-parameter
+Specification-Title: Jenkins Validating Email Parameter Plugin
+Implementation-Title: validating-email-parameter
+Implementation-Version: 1.10
+Group-Id: io.jenkins.plugins
+Short-Name: validating-email-parameter
+Long-Name: Validating Email Parameter Plugin
+Url: https://github.com/jenkinsci/validating-email-parameter-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.10
+Hudson-Version: 2.164.3
+Jenkins-Version: 2.164.3
+Plugin-Developers: Sezai Can:szcn:cn.sezai@gmail.com
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/validating-email-parameter
+ -plugin
+

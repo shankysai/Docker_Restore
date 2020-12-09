@@ -1,0 +1,70 @@
+commit b2550580496622ac6ef01d6dc762dd505eac52a2
+tree e287e2a671f85398ed6085b9d9f4957a1e286f89
+parent fb134ca675b4d66ae0387ab9fdd7b37279cf1b35
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:12:52 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:12:52 +0000
+
+    2nd commit
+
+
+:100644 100644 308bafb491b61bb434bab9867cc5ce09d3ceba5b dcbb1f0310084c6a16c4948878f4ec43f836f430 M	Ansible_Playbook
+commit fb134ca675b4d66ae0387ab9fdd7b37279cf1b35
+tree be82baf5b87be2ac09f00df18b0cfd9350dffbe8
+parent db800f94fe5e2434b47dccd7b3281b575073a442
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:12:16 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:12:16 +0000
+
+    1st commit
+
+
+:100644 100644 dcbb1f0310084c6a16c4948878f4ec43f836f430 308bafb491b61bb434bab9867cc5ce09d3ceba5b M	Ansible_Playbook
+commit db800f94fe5e2434b47dccd7b3281b575073a442
+tree e287e2a671f85398ed6085b9d9f4957a1e286f89
+parent eb2454200045c3fcdb9159059052f23e86808b4b
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:06:55 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:06:55 +0000
+
+    6th commit
+
+
+:100644 100644 308bafb491b61bb434bab9867cc5ce09d3ceba5b dcbb1f0310084c6a16c4948878f4ec43f836f430 M	Ansible_Playbook
+commit eb2454200045c3fcdb9159059052f23e86808b4b
+tree be82baf5b87be2ac09f00df18b0cfd9350dffbe8
+parent 7ef474a94219d52a660f36916b16590f98d43bae
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:06:34 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:06:34 +0000
+
+    5th commit
+
+
+:100644 100644 dcbb1f0310084c6a16c4948878f4ec43f836f430 308bafb491b61bb434bab9867cc5ce09d3ceba5b M	Ansible_Playbook
+commit 7ef474a94219d52a660f36916b16590f98d43bae
+tree e287e2a671f85398ed6085b9d9f4957a1e286f89
+parent c37eb41d7f95361b6f10004960e8f41ae4e126d0
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:02:09 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:02:09 +0000
+
+    sixth commit
+
+
+:100644 100644 308bafb491b61bb434bab9867cc5ce09d3ceba5b dcbb1f0310084c6a16c4948878f4ec43f836f430 M	Ansible_Playbook
+commit c37eb41d7f95361b6f10004960e8f41ae4e126d0
+tree be82baf5b87be2ac09f00df18b0cfd9350dffbe8
+parent 7c442fd90fc6047b4d535baea7b14345ac3fa9ca
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:01:47 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 15:01:47 +0000
+
+    Fifth commit
+
+
+:100644 100644 dcbb1f0310084c6a16c4948878f4ec43f836f430 308bafb491b61bb434bab9867cc5ce09d3ceba5b M	Ansible_Playbook
+commit fed43e26d33e99ad96c3f9b40c0ca0c56545f429
+tree b331f87af038673d2ea8ed920e66abe74475af3d
+parent 0ea88f3c418b4283b1d7cff5462947bde4fbda18
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 13:23:17 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-07 13:23:17 +0000
+
+    Third Commit
+
+
+:100644 100644 223c571cb1e37a8a2ff35f6373e98ee52abb40e7 2b7686b91d648146c5985034bd16d496d440fa4b M	Ansible_Playbook

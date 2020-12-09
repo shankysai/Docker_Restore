@@ -1,0 +1,20 @@
+commit 6acfe104544ff3d854afc6821266a2a43ed0a5b5
+tree e287e2a671f85398ed6085b9d9f4957a1e286f89
+parent 8b9caa7fe3aff10291fe00a2ac8cadd80bba1593
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-08 05:36:08 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-08 05:36:08 +0000
+
+    mrng commit
+
+
+:100644 100644 5dbd28c790bdfca764d8b7bf9699a3db98144f97 dcbb1f0310084c6a16c4948878f4ec43f836f430 M	Ansible_Playbook
+commit 8b9caa7fe3aff10291fe00a2ac8cadd80bba1593
+tree 087371635cfbaae911af52ebac080fc9b13ac8ca
+parent 5c78dce251a68df98376a6ede9f9479ea700297b
+author Shankysai2601 <sankarit1994@gmail.com> 2020-12-08 05:35:22 +0000
+committer Shankysai2601 <sankarit1994@gmail.com> 2020-12-08 05:35:22 +0000
+
+    today commit
+
+
+:100644 100644 dcbb1f0310084c6a16c4948878f4ec43f836f430 5dbd28c790bdfca764d8b7bf9699a3db98144f97 M	Ansible_Playbook

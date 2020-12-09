@@ -1,0 +1,25 @@
+Started by GitHub push by shankysai
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Ansible_Project
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/shankysai/DevOpsProject # timeout=10
+Fetching upstream changes from https://github.com/shankysai/DevOpsProject
+ > git --version # timeout=10
+ > git --version # 'git version 2.11.0'
+ > git fetch --tags --progress -- https://github.com/shankysai/DevOpsProject +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision db2cdf75544d33ec2d737c9b6555cae7513b19b7 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f db2cdf75544d33ec2d737c9b6555cae7513b19b7 # timeout=10
+Commit message: "Final Commit"
+ > git rev-list --no-walk 6acfe104544ff3d854afc6821266a2a43ed0a5b5 # timeout=10
+SSH: Connecting from host [90a9c21ffcec]
+SSH: Connecting with configuration [Ansible_Master] ...
+SSH: EXEC: completed after 6,206 ms
+SSH: Disconnecting configuration [Ansible_Master] ...
+SSH: Transferred 0 file(s)
+Build step 'Send files or execute commands over SSH' changed build result to SUCCESS
+Finished: SUCCESS

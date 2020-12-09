@@ -1,0 +1,13 @@
+Started on Dec 8, 2020 6:54:26 AM
+Started by event from 140.82.115.251 ⇒ http://13.233.156.38:8080/github-webhook/ on Tue Dec 08 06:54:26 UTC 2020
+Using strategy: Default
+[poll] Last Built Revision: Revision 6acfe104544ff3d854afc6821266a2a43ed0a5b5 (refs/remotes/origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.11.0'
+ > git ls-remote -h -- https://github.com/shankysai/DevOpsProject # timeout=10
+Found 2 remote heads on https://github.com/shankysai/DevOpsProject
+[poll] Latest remote head revision on refs/heads/master is: db2cdf75544d33ec2d737c9b6555cae7513b19b7
+Done. Took 0.7 sec
+Changes found
